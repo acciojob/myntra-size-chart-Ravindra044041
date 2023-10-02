@@ -1,28 +1,2 @@
 
 /* Your CSS Code here. */
-table, th, td{
-	border : 1px solid black;
-}
-table{
-	border-collapse: collapse;
-	width: 100%;
-}
-.row1{
-	background-color: brown;
-	color: white;
-}
-.row2{
-	background-color: rgba(255, 0, 19, 0.9);
-	color: white;
-}
-.row3{
-	background-color: rgba(255, 240, 240, 0.9);
-	color: black;
-}
-.row4{
-	background-color: rgba(220, 220, 240, 0.9);
-	color: black;
-}
-td{
-	text-align: right;
-}
